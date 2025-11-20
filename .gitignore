@@ -1,0 +1,15 @@
+# VSCode
+.vscode/
+.env
+__pycache__/
+*.log
+
+# builds
+dist/
+build/
+
+# arquivos temporários
+*.tmp
+
+#outros arquivos
+*.pdf
