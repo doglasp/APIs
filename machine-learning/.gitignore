@@ -1,8 +1,1 @@
-.env
-*.db
-__pycache__/
-*.sqlite3
-*.log
 .venv/
-.env.local
-
